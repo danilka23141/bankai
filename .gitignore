@@ -1,3 +1,4 @@
 .gradle
 build/
+git add -f artifacts/app-order.jar
 
