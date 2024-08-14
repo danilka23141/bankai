@@ -1,0 +1,1 @@
+[![CI Status](https://github.com/danilka23141/MTs/.github/workflows/ci.yml/badge.svg)](https://github.com/danilka23141/MTs/.github/workflows/ci.yml
